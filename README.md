@@ -28,7 +28,4 @@
 * 📫 **Email:** [rajrajneelam@gmail.com](mailto:rajrajneelam@gmail.com)
 * 🔗 **LinkedIn:** [Neelam Kumari Verma](https://www.linkedin.com/in/neelam-kumari-verma-0a1523324)
 
----
 
-### 📊 GitHub Stats
-![Neelam's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  yh kha dalu derciptionkya 
